@@ -1,0 +1,37 @@
+_repo: Memorials-of-Francis-Storr-Sermons_52768
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Storr, Francis
+    birthdate: 1808
+    deathdate: 1888
+    gutenberg_agent_id: '46641'
+    url: http://www.gutenberg.org/2009/agents/46641
+creator:
+  authors:
+  - agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+  - agent_name: May, W., Rev.
+    gutenberg_agent_id: '42009'
+    url: http://www.gutenberg.org/2009/agents/42009
+description: ''
+gutenberg_issued: '2016-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Storr, Francis, 1808-1888 -- Death and burial'
+- !lcsh 'Church of England -- Sermons'
+- !lcc 'BV'
+- !lcsh 'Funeral sermons'
+- GITenberg
+title: 'Memorials of Francis Storr: Sermons'
+url: http://www.gutenberg.org/ebooks/52768
